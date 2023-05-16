@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 1,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "files.autoSaveDelay": 500,
+    "editor.mouseWheelZoom": true,
+    "editor.wordWrap": "on",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false
+}
